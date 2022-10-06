@@ -8784,7 +8784,7 @@ CREATE TABLE `utilisateur` (
 
 INSERT INTO `utilisateur` (`id`, `nom`, `prenom`, `login`, `mdp`, `adresse`, `cp`, `ville`, `dateEmbauche`,`role`) VALUES
 ('a111','Ulisses', 'Nino','ntu', '63a9f0ea7bb98050796b649e85481845', '6 rue Guynemer', '93260', 'Les Lilas', '2012-08-04', 'c'),
-('a11','Torres', 'Nino','ntorres', '63a9f0ea7bb98050796b649e85481845', '6 rue Guynemer', '93260', 'Les Lilas', '2012-08-04', 'c'),
+('a11','Sall', 'Bilal','bsall', '63a9f0ea7bb98050796b649e85481845', '36 avenue', '93420', 'Villepinte', '2012-08-04', 'c'),
 ('a131', 'Villechalane', 'Louis', 'lvillachane', '92eb980737f1854076b2e34933286d8e', '8 rue des Charmes', '46000', 'Cahors', '2005-12-21','v'),
 ('a17', 'Andre', 'David', 'dandre', '37f2381c9a729782c38410b1ea5b8191', '1 rue Petit', '46200', 'Lalbenque', '1998-11-23','v'),
 ('a55', 'Bedos', 'Christian', 'cbedos', '26ec3c585ee973005c2744742d920dc3', '1 rue Peranud', '46250', 'Montcuq', '1995-01-12','v'),
